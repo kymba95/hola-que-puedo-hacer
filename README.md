@@ -1,2 +1,2 @@
-# Studying
+# studying
 Learning a little bit
